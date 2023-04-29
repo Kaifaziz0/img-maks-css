@@ -1,11 +1,11 @@
-html {
+#grid {
     background-color: #124559;
     background-repeat: no-repeat;
     background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/johnoliver2.jpg);
     background-size: 100vw;
     background-position: center  6vw;
 }
-body {
+#grid {
   font-family: 'Roboto Slab', serif;
   font-size:1.8vw;
   color: #D3E6D9;
