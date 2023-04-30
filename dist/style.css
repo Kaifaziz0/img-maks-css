@@ -47,18 +47,18 @@ p{
   position: relative;
   background-color:#000;
   outline-style: solid;
-  outline-color:#fff;
+  outline-color:#000;
   outline-width: 1vw;  \\ Same as grid gap
 }
 
-div#row1a,div#row2a,div#row3a,div#row3b,div#row4a,div#row5a,div#row5b,div#row6a,div#row7a,div#row8a,div#row9a{
+div#row1a,div#row2a,div#row3a,div#row3b,div#row4a,div#row5a,div#row5b,div#row6a,div#row7a,div#row8a,div#row9a,div#row10a,div#row12a{
   background-color:rgba(64,67,78,0.4);
 }
 
 #row1a, div#row5a{
   grid-column-end: span 3;
 }
-#row1b, div#row2b, div#row3b, div#row5c, div#row8a, div#row8b, div#row9a, {
+#row1b, div#row2b, div#row3b, div#row5c, div#row8a, div#row8b, div#row9a, div#row12a{
   grid-column-end: span 2;
 }
 div#row2b{
