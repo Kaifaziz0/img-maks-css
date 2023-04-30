@@ -4,6 +4,8 @@
     background-image: url(https://cdn.discordapp.com/attachments/1094960114403901500/1102246419718479992/Untitled_design.jpg);
     background-size: 100vw;
     background-position: center  6vw;
+   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
 #grid {
   font-family: 'Roboto Slab', serif;
@@ -45,7 +47,7 @@ p{
 
 #grid > div{
   position: relative;
-  background-color:#000;
+  background-color:#111215;
   outline-style: solid;
   outline-color:#000;
   outline-width: 1vw;  \\ Same as grid gap
