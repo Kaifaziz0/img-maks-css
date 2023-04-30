@@ -1,5 +1,5 @@
 #grid {
-    background-color: #124559;
+    background-color: #000;
     background-repeat: no-repeat;
     background-image: url(https://cdn.discordapp.com/attachments/1094960114403901500/1102246419718479992/Untitled_design.jpg);
     background-size: 100vw;
@@ -8,10 +8,10 @@
 #grid {
   font-family: 'Roboto Slab', serif;
   font-size:1.8vw;
-  color: #D3E6D9;
+  color: #fff;
 }
 a {
-  color: #D3E6D9;
+  color: #fff;
 }
 
 p{
