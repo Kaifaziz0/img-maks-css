@@ -1,5 +1,5 @@
 #grid {
-    background-color: #000;
+    background-color: #111215;
     background-repeat: no-repeat;
     background-image: url(https://cdn.discordapp.com/attachments/1094960114403901500/1102246419718479992/Untitled_design.jpg);
     background-size: 100vw;
@@ -49,7 +49,7 @@ p{
   position: relative;
   background-color:#111215;
   outline-style: solid;
-  outline-color:#000;
+  outline-color:#111215;
   outline-width: 1vw;  \\ Same as grid gap
 }
 
