@@ -1,3 +1,9 @@
+
+
+html, body {
+  height: 100%;
+}
+
 #grid {
     background-color: #111215;
     background-repeat: no-repeat;
